@@ -1,0 +1,9 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+dependencies {
+	compile project(':Functions')
+	compile project(':Utils')
+}
+
+mainClassName = 'mypackage.StartApp'

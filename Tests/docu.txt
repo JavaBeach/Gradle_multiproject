@@ -1,0 +1,20 @@
+eclipse
+java
+junit
+gradle
+
+workspace_gradle_multiproject
+
+test reporting
+multiproject
+
+the app consists of multiple projects, the goal is to
+write and execute junit tests covering the functionality
+in all projects.
+
+the tests are run with gradle, pressing one button
+triggers all tests, the reporting as html document
+is done by gradle, too.
+
+the tests are located in one project designated for tests.
+
