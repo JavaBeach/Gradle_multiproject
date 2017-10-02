@@ -1,0 +1,6 @@
+rootProject.name = 'workspace_gradle_multiproject'
+
+include 'Utils'
+include 'Functions'
+include 'Starting'
+include 'Tests'
